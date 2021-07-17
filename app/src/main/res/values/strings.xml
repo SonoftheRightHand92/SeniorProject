@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Riot Dents</string>
+    <string name="title">Riot Dents</string>
+    <string name="confirmation">Confirm password and enter employee ID</string>
+    <string name="Ok">Ok</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Confirmation_Title">Confirm password and input employee ID</string>
+    <string name="riot">Riot #</string>
+
+</resources>
